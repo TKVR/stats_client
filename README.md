@@ -1,8 +1,6 @@
 = stats_client
 
-Description goes here.
-
-== Contributing to stats_client
+== Contributing to stats_client:
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
@@ -14,5 +12,9 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2014 Michael Lungo (mike@michaellungo.com) & Fantasy Capital. See LICENSE.txt for further details.
+Copyright (c) TKVR LLC 2014 Michael Lungo (mike@michaellungo.com) || (Cur1yJ.com(. 
+
+Live example: Fantasy Capital/Bolt Draft. 
+
+See LICENSE.txt for further details.
 
