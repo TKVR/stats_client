@@ -12,7 +12,7 @@
 
 == Copyright
 
-Copyright (c) TKVR LLC 2014 Michael Lungo (mike@michaellungo.com) || (Cur1yJ.com(. 
+Copyright (c) 2014 TKVR LLC [Michael Lungo](mike@michaellungo.com) || [Cur1yJ.com](Cur1y.com). 
 
 Live example: Fantasy Capital/Bolt Draft. 
 
